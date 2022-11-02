@@ -1,0 +1,59 @@
+:root {
+    --border-radius: 10px;
+    --padding-left: 150px;
+    --padding-right: 180px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+}
+
+
+
+
+/*****************************
+ *  Headlines  & text        *
+******************************/
+
+
+/*****************************
+ *  Gallery  (all images)    *
+******************************/
+
+
+
+/*****************************
+ *  Site     Structre)       *
+******************************/
+/* ------------------------- 
+   Section: Startseite */
+
+
+/* End of section: Startseite 
+   ===============================*/
+
+
+/******************************************
++ JUST FOR SMARTPHONES
+/******************************************/
+
+
+    
+    /*  Headlines | GENERAL CLASSES       
+    *=============================*/
+
+
+    /*  Site     (Structre) 
+    *=============================*/
+    
+    /* Section: Startseite */
+
+/******************************************
++ END of JUST FOR SMARTPHONES
+/******************************************/

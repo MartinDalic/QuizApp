@@ -29,10 +29,7 @@ function getCurrentYear() {
 
 
 function start() {
-  loadNotes();
-  //loadNotesWithRETURN();
-  render();
-  getCurrentYear();
+  showQuestion();
 }
 /*========*/
 /**********************************************************
